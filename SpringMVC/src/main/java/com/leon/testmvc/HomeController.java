@@ -38,6 +38,7 @@ public class HomeController {
 		System.out.println("11");
 		System.out.println("12");
 		System.out.println("13");
+		System.out.println("------");
 	}
 	/**
 	 * Simply selects the home view to render by returning its name.
