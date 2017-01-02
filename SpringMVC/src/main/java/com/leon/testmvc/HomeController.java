@@ -22,6 +22,7 @@ public class HomeController {
 	/*1*/
 	/*2*/
 	/*3*/
+	/*add new branch*/
 	
 	/**
 	 * Simply selects the home view to render by returning its name.
