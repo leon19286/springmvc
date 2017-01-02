@@ -1,5 +1,9 @@
 package com.leon.testmvc;
 
-public class NewClass {
+import org.apache.log4j.chainsaw.Main;
 
+public class NewClass {
+	public static void main(String[] args) {
+
+	}
 }
