@@ -24,6 +24,11 @@ public class HomeController {
 	/*3*/
 	/*add new branch*/
 	
+	public static void main(String[] args) {
+		System.out.println("1");
+		System.out.println("2");
+	}
+	
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
