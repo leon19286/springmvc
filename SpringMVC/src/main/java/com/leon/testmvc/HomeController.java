@@ -43,7 +43,7 @@ public class HomeController {
 		/*fff*/
 		/*ccc*//*ccc*//*ccc*//*ccc*//*ccc*/
 		/*fff*//*fff*//*fff*//*fff*/
-		/*kkk*/
+		/*kkk*//*kkk*/
 		return "home";
 	}
 	
