@@ -23,6 +23,8 @@ public class HomeController {
 	/*2*/
 	/*3*/
 	/*Test feature*/
+	/*Test feature*/
+	
 	
 	/**
 	 * Simply selects the home view to render by returning its name.
