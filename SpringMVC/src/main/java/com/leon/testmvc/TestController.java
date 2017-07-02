@@ -64,4 +64,9 @@ public class TestController {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void test2() {
+		// TODO Auto-generated method stub
+		System.out.println();
+	}
 }
