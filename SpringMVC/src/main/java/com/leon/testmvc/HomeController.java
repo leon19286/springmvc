@@ -32,7 +32,10 @@ public class HomeController {
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
 		logger.info("Welcome home! The client locale is {}.", locale);
+<<<<<<< HEAD
 		logger.info("Welcome home! The client locale is {1}.", locale);
+=======
+>>>>>>> branch 'feature/add2' of https://github.com/leon19286/springmvc.git
 		logger.info("Welcome home! The client locale is {2}.", locale);
 		//test
 		Date date = new Date();
