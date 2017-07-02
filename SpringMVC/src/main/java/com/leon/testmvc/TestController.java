@@ -40,4 +40,9 @@ public class TestController {
 		return "homehome";
 	}
 	
+	private void method2() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
