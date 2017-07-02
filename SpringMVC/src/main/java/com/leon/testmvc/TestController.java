@@ -39,7 +39,12 @@ public class TestController {
 		/*Feature 3334*/
 		return "homehome";
 	}
-	
+
+	private void test() {
+		// TODO Auto-generated method stub
+
+	}
+
 	private void need() {
 		// TODO Auto-generated method stub
 
