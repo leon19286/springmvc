@@ -34,6 +34,7 @@ public class HomeController {
 		logger.info("Welcome home! The client locale is {}.", locale);
 		logger.info("Welcome home! The client locale is {1}.", locale);
 		logger.info("Welcome home! The client locale is {2}.", locale);
+		//test1
 		//test2
 		Date date = new Date();
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
