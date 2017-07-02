@@ -50,4 +50,8 @@ public class TestController {
 
 	}
 	
+	private void method3() {
+		// TODO Auto-generated method stub
+
+	}
 }
