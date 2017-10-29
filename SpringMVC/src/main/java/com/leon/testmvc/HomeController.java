@@ -32,4 +32,9 @@ public class HomeController {
 		return "home";
 	}
 	
+	private void feature1() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
