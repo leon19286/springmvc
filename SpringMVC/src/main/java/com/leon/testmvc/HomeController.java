@@ -38,4 +38,10 @@ public class HomeController {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void test() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
