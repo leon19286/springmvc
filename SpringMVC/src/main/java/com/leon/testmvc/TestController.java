@@ -33,10 +33,6 @@ public class TestController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
-		/*Feature 2*/
-		/*Feature 3*/
-		/*Feature 4*/
-		/*Feature 3334*/
 		return "homehome";
 	}
 
