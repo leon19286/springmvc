@@ -34,4 +34,8 @@ public class HomeController {
 		return "home";
 	}
 	
+	private void test2() {
+		// TODO Auto-generated method stub
+
+	}
 }
