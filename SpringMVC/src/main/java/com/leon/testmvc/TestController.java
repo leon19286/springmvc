@@ -25,18 +25,10 @@ public class TestController {
 	@RequestMapping(value = "/test", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
 		logger.info("Welcome test! The client locale is {}.", locale);
-
 		Date date = new Date();
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
-		
 		String formattedDate = dateFormat.format(date);
-		
 		model.addAttribute("serverTime", formattedDate );
-		
-		/*Feature 2*/
-		/*Feature 3*/
-		/*Feature 4*/
-		/*Feature 3334*/
 		return "homehome";
 	}
 
