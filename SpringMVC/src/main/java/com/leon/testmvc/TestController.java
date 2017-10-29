@@ -32,33 +32,4 @@ public class TestController {
 		return "homehome";
 	}
 
-	private void test() {
-		// TODO Auto-generated method stub
-
-	}
-
-	private void need() {
-		// TODO Auto-generated method stub
-
-	}
-
-	private void method1() {
-		// TODO Auto-generated method stub
-
-	}
-
-	private void method2() {
-		// TODO Auto-generated method stub
-
-	}
-	
-	private void method3() {
-		// TODO Auto-generated method stub
-
-	}
-	
-	private void test2() {
-		// TODO Auto-generated method stub
-		System.out.println();
-	}
 }

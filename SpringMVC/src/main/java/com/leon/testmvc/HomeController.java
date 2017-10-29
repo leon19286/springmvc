@@ -19,13 +19,6 @@ public class HomeController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
-	/*1*/
-	/*2*/
-	/*3*/
-	/*Test feature*/
-	/*Test feature*/
-	
-	
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
@@ -34,19 +27,10 @@ public class HomeController {
 		logger.info("Welcome home! The client locale is {}.", locale);
 		logger.info("Welcome home! The client locale is {1}.", locale);
 		logger.info("Welcome home! The client locale is {2}.", locale);
-		//test1
-		//test2
 		Date date = new Date();
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
-		
 		String formattedDate = dateFormat.format(date);
-		
 		model.addAttribute("serverTime", formattedDate );
-		/*ccc*/
-		/*fff*/
-		/*ccc*//*ccc*//*ccc*//*ccc*//*ccc*/
-		/*fff*//*fff*//*fff*//*fff*/
-		/*kkk*//*kkk*/
 		return "home";
 	}
 	
