@@ -34,11 +34,11 @@ public class TestController {
 	}
 	
 	private void newMethod1() {
-		
+		System.out.println("m1");
 	}
 
 	private void newMethod2() {
-		
+		System.out.println("m1");
 	}
 
 }
