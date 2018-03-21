@@ -33,6 +33,10 @@ public class TestController {
 		return "homehome";
 	}
 	
+	private void newMethod1() {
+		
+	}
+
 	private void newMethod2() {
 		
 	}
