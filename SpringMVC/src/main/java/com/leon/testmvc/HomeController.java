@@ -49,6 +49,6 @@ public class HomeController {
 	
 	private void feature3() {
 		// TODO Auto-generated method stub
-
+		System.out.println("sad");
 	}
 }
