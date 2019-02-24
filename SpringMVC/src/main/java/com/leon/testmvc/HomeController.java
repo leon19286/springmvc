@@ -55,5 +55,9 @@ public class HomeController {
 	} 
 	
 	private void feature5() {
+	}
+	
+	private void feature6() {
 	} 
+
 }
