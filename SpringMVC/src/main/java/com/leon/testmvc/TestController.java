@@ -41,7 +41,7 @@ public class TestController {
 	private void newMethod2() {
 		System.out.println("m1");
 		System.out.println("m2");
-		System.out.println("f22");
+		System.out.println("f33");
 	}
 
 }
